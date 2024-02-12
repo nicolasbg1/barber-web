@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import { headerbg } from '../../global-styles/colors-global';
+import styled from 'styled-components'
+import { headerbg } from '../../global-styles/colors-global'
 
 export const HeaderContainer = styled.header`
   width: 100%;
@@ -8,7 +8,7 @@ export const HeaderContainer = styled.header`
   display: flex;
   justify-content: space-around;
   align-items: center;
-`;
+`
 
 export const Nav = styled.nav`
   display: flex;
@@ -16,11 +16,11 @@ export const Nav = styled.nav`
   align-items: center;
   height: 100%;
   width: 300px;
-`;
+`
 
 export const Logo = styled.img`
   height: 60px;
-`;
+`
 
 export const NavLink = styled.a`
   color: white;
@@ -30,4 +30,4 @@ export const NavLink = styled.a`
   &:hover {
     text-decoration: underline;
   }
-`;
+`
