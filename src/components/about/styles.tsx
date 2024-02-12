@@ -19,6 +19,7 @@ export const ImgsClients = styled.div `
     width: 600px; 
     img{
         position: relative;
+        background-attachment: fixed;
         pointer-events: none;
     }
 `;
@@ -26,7 +27,7 @@ export const Img1 = styled.img `
     bottom: 100px;
 `;
 export const Img2 = styled.img `
-bottom: 50px;
+bottom: 80px;
     
 `;
 export const Img3 = styled.img `

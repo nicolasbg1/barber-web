@@ -3,3 +3,4 @@ export const buttonbg = '#F0B35B';
 export const buttonhover = '#d9a864';
 export const aboutbg = '#0D121E';
 export const servicesbg  = '#';
+export const teambg = '#080B16';
