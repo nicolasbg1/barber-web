@@ -1,11 +1,3 @@
-import { } from './styles';
+import {} from './styles'
 
-
-
-
-
-
-
-
-
-export default Team;
+export default Team
