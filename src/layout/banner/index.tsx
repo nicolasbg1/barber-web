@@ -1,4 +1,4 @@
-import Button from '../../modules/button'
+import Button from '../../components/button'
 import {
   BannerContainer,
   Message,

@@ -16,14 +16,12 @@ const GlobalStyles = createGlobalStyle`
     font-style: normal;
   }
   
-  
   @font-face {
     font-family: 'Poppins';
     src: url('src/assets/fonts/Poppins/Poppins-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
   }
-  
 
     * {
         margin: 0;
@@ -35,9 +33,6 @@ const GlobalStyles = createGlobalStyle`
         width: 100%;
         font-family: 'Poppins', sans-serif;
     }
-
-
-
 `
 
 export default GlobalStyles

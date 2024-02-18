@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { buttonbg, buttonhover } from '../../global-styles/colors-global'
+import { buttonbg, buttonhover } from '../../styles/themes/colors-global'
 
 export const ButtonContainer = styled.div`
   width: 300px;

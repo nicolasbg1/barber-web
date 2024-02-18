@@ -1,5 +1,5 @@
 import LogoBarber from '../../assets/images/logo.svg'
-import Button from '../../modules/button'
+import Button from '../../components/button'
 import { HeaderContainer, Logo, Nav, NavLink } from './styles'
 
 function Header() {

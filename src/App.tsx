@@ -1,7 +1,7 @@
-import About from './components/about'
-import Banner from './components/banner'
-import Header from './components/header'
-import Services from './components/services'
+import About from './layout/about'
+import Banner from './layout/banner'
+import Header from './layout/header'
+import Services from './layout/services'
 
 function App() {
   return (

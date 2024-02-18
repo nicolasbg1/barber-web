@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { headerbg } from '../../global-styles/colors-global'
+import { headerbg } from '../../styles/themes/colors-global'
 
 export const HeaderContainer = styled.header`
   width: 100%;

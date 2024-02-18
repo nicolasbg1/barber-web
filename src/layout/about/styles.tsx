@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { aboutbg } from '../../global-styles/colors-global'
+import { aboutbg } from '../../styles/themes/colors-global'
 
 export const AboutContainer = styled.section`
   width: 100%;
